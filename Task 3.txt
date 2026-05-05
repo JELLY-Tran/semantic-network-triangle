@@ -1,0 +1,5 @@
+Một kỹ sư khảo sát đứng tại điểm A trên bờ sông, quan sát sang hai điểm B và C ở bờ đối diện. Đo được khoảng cách AB = 10 m, AC = 7 m và góc tại A giữa hai hướng nhìn là 60°. Hãy tính:
+
+	Khoảng cách BC thực tế qua sông (cạnh a)
+	Các góc tại B và C để kiểm tra lại phép đo
+	Diện tích tam giác khảo sát ABC

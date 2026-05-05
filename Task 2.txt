@@ -1,0 +1,5 @@
+Một công ty sản xuất biển báo giao thông hình tam giác đều, mỗi cạnh dài 8 cm. Kỹ sư cần tính toán để cắt tấm kim loại và uốn viền cho chính xác. Hãy tính:
+
+	Chiều cao của biển (đường cao h)
+	Diện tích bề mặt cần sơn (S)
+	Bán kính vòng tròn ngoại tiếp để xác định kích thước khung đỡ (R)

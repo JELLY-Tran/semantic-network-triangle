@@ -1,0 +1,5 @@
+Một mảnh vườn hình tam giác có hai cạnh góc vuông đều dài 5 mét, góc giữa hai cạnh đó là 90°. Người chủ muốn rào toàn bộ chu vi mảnh vườn và đặt một bồn hoa hình tròn lớn nhất vừa khít bên trong. Hãy tính:
+
+	Độ dài cạnh huyền (hàng rào cần mua thêm)
+	Diện tích mảnh vườn
+	Bán kính bồn hoa nội tiếp (r) và bán kính vòng tròn ngoại tiếp (R)
